@@ -1,4 +1,4 @@
-# Advanced Data Analysis Techniques on EU Economic Indicators
+# Advanced Data Analysis Techniques on Multiple data sets 
 
 This repository presents a comprehensive analysis of various datasets involving EU economic indicators, lung cancer genomics, and geometrically structured synthetic data. The primary focus is on applying advanced data analysis techniques to uncover underlying patterns and evaluate the effectiveness of different clustering and dimension reduction methods.
 
